@@ -10,5 +10,5 @@ python main.py --video [path-to-video]
 + tqdm
 
 ### Todo 
-- [ ] parallel processing
-- [ ] cuda backend
+- [x] parallel processing
+- [ ] audio combination
